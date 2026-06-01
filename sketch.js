@@ -12,7 +12,7 @@ let r, g, b;
 
 function setup() {
 
-  createCanvas(600, 700);
+  createCanvas(windowWidth, windowHeight);
 
   background(0);
 
